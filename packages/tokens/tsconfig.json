@@ -1,0 +1,4 @@
+{
+  "extends": "@eder-cruz-ui/ts-config/base.json",
+  "include": ["src"]
+}
